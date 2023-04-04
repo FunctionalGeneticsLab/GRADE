@@ -54,18 +54,19 @@ This repository contains the scripts used in our in-house RNAseq analysis pipeli
 
 Each script file foccus on one part of the analysis, from file preparation and quality assessment to differential expression.
 
-1. Script File 1: "***de novo***" transcriptome pipeline.
-2. Script File 2: NB-lncRNA annotation
-3. Script File 3: Expression of NB-lncRNAs in the bulk RNAseq samples.
-4. Script File 4: Transcript counts for single-cell clustering.
-5. Script File 5: Single-cell clustering for Fluidigm and 10x Genomics.
-6. Script File 6: Cluster-specificity index (CSI).
-7. Script File 7: SCENT SR value calculation.
-8. Script File 8: Monocle cell entropy.
-9. Script File 9: Slingshot trajectories.
-10. Script File 10: TCGA expression.
-11. Script File 11: MGFR.
-12. Script File 12: Accessory scripts.
+0. Script File 0: Prepare pipeline environment.
+1. Script File 1: FastQC.
+2. Script File 2: Trimmomatic.
+3. Script File 3: FastQC.
+5. Script File 5: Kallisto Quantification analysis.
+6. Script File 6: Kallisto Tables.
+8. Script File 8: STAR Alingment.
+9. Script File 9: SAM Tools.
+10. Script File 10: Novosort.
+11. Script File 11: RSEM Quantification Analysis.
+12. Script File 12: RSEM Tables.
+13. Script File 13: RSEM Transcript to gene.
+14. Script File 14: Differential Expression Analysis with EdgeR.
 
 <!-- GETTING STARTED -->
 ## Pipeline Prerequisites
