@@ -3,6 +3,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![DOI](https://zenodo.org/badge/623305557.svg)](https://zenodo.org/badge/latestdoi/623305557)
+
 
 <!-- PROJECT LOGO -->
 <br />
